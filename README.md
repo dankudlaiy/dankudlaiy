@@ -26,7 +26,6 @@ software engineer. backend systems in .net and applied ai, building for us produ
   - python, rust.
 - **rag pipelines** in my own projects: embeddings, chunking and retrieval with sentence-transformers, chromadb, faiss.
 - **multi-agent pipeline**: role-based llm agents (director, designer, programmer, artist) with scoped write permissions and review gates.
-- [**agent-workflow**](https://github.com/dankudlaiy/agent-workflow): claude code team setup for .net / next.js repos. spec → plan → test-first → legacy parity → review, enforced by hooks.
 - [**iko**](https://github.com/dankudlaiy/iko): one playlist across spotify, youtube and apple music. asp.net core 8, angular 20, oauth 2.0, integration tests, docker.
 - [**tiler**](https://github.com/dankudlaiy/tiler): drag-to-tile window manager for windows. .net 10, wpf, win32 interop, unit-tested layout engine.
 
